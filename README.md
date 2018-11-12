@@ -15,6 +15,10 @@ Most of papers are from ML area.
 
 ### Interpretability
 
+#### A guide to convolution arithmetic for deep learning
+- https://arxiv.org/abs/1603.07285
+- 설명 PDF: https://www.slideshare.net/ssuserb208cc1/transposed-convolution
+
 #### Visualizing and Understanding Convolutional Networks (ZFNet)
 - https://arxiv.org/abs/1311.2901
 - 설명 PPT: https://www.slideshare.net/ssuserb208cc1/cnn-visualization
