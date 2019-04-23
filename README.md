@@ -118,6 +118,21 @@ Most of papers are from ML area.
 - https://arxiv.org/abs/1606.01847
 - 요약: Compact Bilinear Pooling을 사용해서 multimodal feature fusion.
 
+## Recommendation System
+
+#### Multi-armed bandit
+- 설명글: http://wwiiiii.tistory.com/entry/MultiArmed-Bandit-Problem
+- 구현: https://github.com/wwiiiii/Multi-Armed-Bandit
+
+#### Large-scale Parallel Collaborative Filtering for the Netflix Prize
+- https://endymecy.gitbooks.io/spark-ml-source-analysis/content/%E6%8E%A8%E8%8D%90/papers/Large-scale%20Parallel%20Collaborative%20Filtering%20the%20Netflix%20Prize.pdf
+- Collaborative Filtering을 Matrix Factorization으로 접근하고, Alternating Least Squares 알고리즘을 통해 실제 계산을 진행.
+
+#### Collaborative Filtering for Implicit Feedback Datasets
+- http://yifanhu.net/PUB/cf.pdf
+- 데이터셋이 Implicit Rating으로 구성되어 있을 때 적용할 수 있는 ALS variant와, 간단한 계산 트릭을 통해 시간복잡도를 줄이는 법을 소개.
+
+
 ## Other ML related topics
 #### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - http://proceedings.mlr.press/v37/ioffe15.html
@@ -125,9 +140,7 @@ Most of papers are from ML area.
 #### Ranking Measures and Loss Functions in Learning to Rank
 - https://papers.nips.cc/paper/3708-ranking-measures-and-loss-functions-in-learning-to-rank.pdf
 - 요약: 자주 쓰이는 Ranking loss 들이 실제로 Ranking Metric인 MAP/NDCG을 개선하는지에 대한 논문. 결론은 loss에 대해 optimize 해도 metric이 개선됨을 증명함.
-#### Multi-armed bandit
-- 설명글: http://wwiiiii.tistory.com/entry/MultiArmed-Bandit-Problem
-- 구현: https://github.com/wwiiiii/Multi-Armed-Bandit
+
 
 ## Other CS related topics
 #### Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing
