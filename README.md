@@ -132,6 +132,8 @@ Most of papers are from ML area.
 - http://yifanhu.net/PUB/cf.pdf
 - 데이터셋이 Implicit Rating으로 구성되어 있을 때 적용할 수 있는 ALS variant와, 간단한 계산 트릭을 통해 시간복잡도를 줄이는 법을 소개.
 
+#### A Tutorial on Thompson Sampling
+- https://arxiv.org/abs/1707.02038
 
 ## Other ML related topics
 #### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
